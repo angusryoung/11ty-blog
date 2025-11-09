@@ -165,4 +165,5 @@ export const config = {
 	// folder name and does **not** affect where things go in the output folder.
 
 	// pathPrefix: "/",
+	pathPrefix: "/blog/",
 };
