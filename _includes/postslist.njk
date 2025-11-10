@@ -27,6 +27,9 @@
 				<span class="postlist-number"></span>
 				<div class="postlist-text">
 					<span class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</span>
+					{%- if post.data.description %}
+					<p class="postlist-description">{{ post.data.description }}</p>
+					{%- endif %}
 					<time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate("LLLL yyyy") }}</time>
 				</div>
 			</div>
