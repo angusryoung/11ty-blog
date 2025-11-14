@@ -11,15 +11,19 @@
     <name>Your Name</name>
   </author>
   <entry>
-    <title>This is my fourth post</title>
+    <title>React Multiplayer RPS Game</title>
     <link href="https://example.com/blog/blog/post4/" />
     <updated>2018-09-30T00:00:00Z</updated>
     <id>https://example.com/blog/blog/post4/</id>
-    <content type="html">&lt;p&gt;Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.&lt;/p&gt;
-&lt;p&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;
-&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/blog/post4/xbVnp_hAou-350.avif 350w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/blog/post4/xbVnp_hAou-350.webp 350w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/blog/post4/xbVnp_hAou-350.png&quot; alt=&quot;A possum parent and two possum kids hanging from the iconic red balloon&quot; width=&quot;350&quot; height=&quot;685&quot;&gt;&lt;/picture&gt;
-&lt;h2 id=&quot;section-header&quot;&gt;Section Header&lt;/h2&gt;
-&lt;p&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.&lt;/p&gt;
+    <content type="html">&lt;p&gt;A while back, I had the pleasure of doing a game jam with some friends. We made a multiplayer platformer called &lt;a href=&quot;https://arkaniii.itch.io/cat-run&quot;&gt;Cat Run&lt;/a&gt;, where you race with some friends. This introduced me to &lt;a href=&quot;https://joinplayroom.com/&quot;&gt;PlayroomKit&lt;/a&gt; , a development tool used to create real-time web-based multiplayer games.&lt;/p&gt;
+&lt;p&gt;Anyway, I had some free time this evening and wanted to work on a React project.  I remembered that Playroomkit could be easily integrated with React applications. So I decided to create a small little rock-paper-scissors game. The game was quickly thrown together, taking inspiration from &lt;a href=&quot;https://www.rpsgame.org/&quot;&gt;Rock Paper Scissors Online&lt;/a&gt;, but I am impressed in what I was able to do in such a short time.&lt;/p&gt;
+&lt;p&gt;In comparison, I once created a similar game using lua and the game looked horrible. Also it took me so much time to set up the multiplayer component of that game.&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/blog/post4/t5DUipLtqh-624.avif 624w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/blog/post4/t5DUipLtqh-624.webp 624w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/blog/post4/t5DUipLtqh-624.png&quot; alt=&quot;My rps game&quot; width=&quot;624&quot; height=&quot;937&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;To play, one player creates a lobby and sends a link to their friend. Once the friend joins the host can start the game.&lt;/p&gt;
+&lt;p&gt;To create a lobby:
+https://angusryoung.github.io/react-game/&lt;/p&gt;
+&lt;p&gt;To look at the code:
+https://github.com/angusryoung/react-game&lt;/p&gt;
 </content>
   </entry>
   <entry>
