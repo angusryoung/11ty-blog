@@ -1,7 +1,7 @@
 ---
 title: "Food Reviews: Bob's Bulgogi"
 description: Gus's eats at Bob's Bulgogi and has a swell time.
-date: 2024-08-24
+date: 2025-10-24
 image: ./kangaroofly.png
 tags: Food Reveiw
 ---
