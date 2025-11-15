@@ -1,7 +1,7 @@
 ---
 title: Gus's First Post.
 description: Gus complains about the blog he has create.
-date: 2018-05-01
+date: 2025-10-01
 tags:  blog stuff
 image: ./drawing.jpg
 imageAlt: Egg on my face
