@@ -48,6 +48,18 @@ Fair&lt;/p&gt;
 </content>
   </entry>
   <entry>
+    <title>Art Review: dawningcrow</title>
+    <link href="https://example.com/blog/blog/post2/" />
+    <updated>2025-10-04T00:00:00Z</updated>
+    <id>https://example.com/blog/blog/post2/</id>
+    <content type="html">&lt;p&gt;I have always been a fan of the dawningcrow and their art style for a while. Recently I discovered a comic they made and I think you should check it out.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.dawningcrow.com/magic-bath-1&quot;&gt;Link to the Comic&lt;/a&gt;&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.avif 380w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.webp 380w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.png&quot; alt=&quot;The cover of the comic&quot; width=&quot;380&quot; height=&quot;538&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;If you want to check out more of their art checkout their
+&lt;a href=&quot;https://www.instagram.com/dawning_crow/?hl=en&quot;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Gus&#39;s First Post.</title>
     <link href="https://example.com/blog/blog/post1/" />
     <updated>2025-10-01T00:00:00Z</updated>
@@ -60,18 +72,6 @@ Fair&lt;/p&gt;
 &lt;em&gt;templating languages that 11ty supports&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The only problem is that while I now have a pretty good base for a blog, it does not directly show off my stills with some of the more exciting front end frameworks.&lt;/p&gt;
 &lt;p&gt;With that said this blog is very much a work in progress and im glad I made this as I had a lot of fun working on this blog. Perhaps I can use it to showcase some of my previous and future projects.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Art Review: dawningcrow</title>
-    <link href="https://example.com/blog/blog/post2/" />
-    <updated>2025-07-04T00:00:00Z</updated>
-    <id>https://example.com/blog/blog/post2/</id>
-    <content type="html">&lt;p&gt;I have always been a fan of the dawningcrow and their art style for a while. Recently I discovered a comic they made and I think you should check it out.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.dawningcrow.com/magic-bath-1&quot;&gt;Link to the Comic&lt;/a&gt;&lt;/p&gt;
-&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.avif 380w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.webp 380w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/blog/post2/I43h-m4AWb-380.png&quot; alt=&quot;The cover of the comic&quot; width=&quot;380&quot; height=&quot;538&quot;&gt;&lt;/picture&gt;
-&lt;p&gt;If you want to check out more of their art checkout their
-&lt;a href=&quot;https://www.instagram.com/dawning_crow/?hl=en&quot;&gt;Instagram&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
