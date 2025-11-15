@@ -1,7 +1,7 @@
 ---
 title: React Multiplayer RPS Game 
 description: Using playroom kit I was able to build a simple rock paper scissors game.
-date: 2025-10-20
+date: 2025-11-01
 image: ./egg-on-face.png
 imageAlt: Egg on my face
 tags: ["React", "Game Development"]
